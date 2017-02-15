@@ -23,6 +23,7 @@ module BraspagRest
 
     property :digitable_line, from: 'DigitableLine'
     property :barcode_number, from: 'BarCodeNumber'
+    property :boleto_number, from: 'BoletoNumber'
     property :expiration_date, from: 'ExpirationDate'
     property :instructions, from: 'Instructions'
     property :printable_page_url, from: 'Url'
