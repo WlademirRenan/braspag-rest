@@ -9,7 +9,7 @@ Gem to use Braspag gateway in his REST version.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'braspag-rest'
+gem "braspag-rest", github: 'WlademirRenan/braspag-rest'
 ```
 
 And then execute:
